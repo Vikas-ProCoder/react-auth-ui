@@ -1,3 +1,7 @@
+# react-auth-ui
+
+> > > > > > > 381d812 (Day 1: Initial React setup with Tailwind CSS)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
