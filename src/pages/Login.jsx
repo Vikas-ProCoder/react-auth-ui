@@ -1,8 +1,8 @@
-import React from "react";
+// import React from "react";
 
 const Login = () => {
   return (
-    <div className="flex flex-col items-center h-screen justify-center bg-gradient-to-b from-teal-600 form-50% to-gray-100 to-50% space-y-6">
+    <div className="flex flex-col items-center h-screen justify-center bg-gradient-to-b from-teal-600 from-50% to-gray-100 to-50% space-y-6">
       <div className="shadow-lg rounded p-6 w-88 bg-white">
         <h1 className="text-2xl font-bold mb-4">Login</h1>
 
