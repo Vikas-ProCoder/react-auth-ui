@@ -1,4 +1,5 @@
 import "./App.css";
+import Login from "./pages/Login";
 // import Signup from "./pages/Signup";
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
     <>
       <div>Welcome React + Vite </div>
       {/* <Signup /> */}
+      <Login />
     </>
   );
 }
